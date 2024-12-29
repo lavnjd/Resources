@@ -24,3 +24,7 @@
 <a href="https://notebook.zohopublic.in/public/notes/9wn9o2d75e726a75c4b7eb7aaec1bd35d99b5">JPA 3</a>
 <a href="https://notebook.zohopublic.in/public/notes/9wn9o30b391bbe74c408eb8c70d306be98258">JPA 4</a>
 <a href="https://notebook.zohopublic.in/public/notes/9wn9ob681f4fe22c8412db0729f618737a416">JPA 5</a>
+
+<b>JAVA NOTES</b>
+<a href="https://docs.google.com/document/d/1Mxi5Q1Icj-3zT5PLcbfZzFta7GV06ZT17zj6nTV39p8/edit?usp=sharing">Switch case evaluation</a>
+
