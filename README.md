@@ -26,5 +26,6 @@
 <a href="https://notebook.zohopublic.in/public/notes/9wn9ob681f4fe22c8412db0729f618737a416">JPA 5</a>
 
 <b>JAVA NOTES</b>
+<br>
 <a href="https://docs.google.com/document/d/1Mxi5Q1Icj-3zT5PLcbfZzFta7GV06ZT17zj6nTV39p8/edit?usp=sharing">Switch case evaluation</a>
 
